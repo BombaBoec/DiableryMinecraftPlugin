@@ -1,0 +1,4 @@
+name: Diablery
+version: '${project.version}'
+main: com.bozheday.diablery.Diablery
+api-version: 1.19
